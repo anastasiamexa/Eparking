@@ -1,7 +1,7 @@
 # Eparking
 A web application for reserving parking spaces.
 
-This project created for the course "Software Technology". It has been extended for the courses "Information System Security" and "e-business and Ιnnovation" needs.
+This project was created for the course "Software Technology". It has been extended for the courses "Information System Security" and "e-business and Ιnnovation" needs.
 
 ## Features
 - Users can create and log into their account.
