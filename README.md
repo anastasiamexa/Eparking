@@ -35,5 +35,5 @@ and the [RUP.pdf](https://github.com/anastasiamexa/Eparking/blob/main/RUP.pdf) c
 Note that everything is in Greek.
 
 ## Contributors
-Anastasia Ioanna Mexa, Nancy Kommatidou, Vasiliki Pasia <br />
+[Anastasia Ioanna Mexa](https://github.com/anastasiamexa), [Nancy Kommatidou](https://github.com/NancyKomm), [Vasiliki Pasia](https://github.com/VasPasia) <br />
 University of Piraeus
